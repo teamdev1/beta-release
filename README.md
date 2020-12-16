@@ -6,7 +6,7 @@
 
 ### Download
 
-[Latest-Version](https://github.com/teamdev1/beta-release/release)
+[Latest-Version](https://github.com/teamdev1/beta-release/releases/tag/1.0.0)
 
 ### How to install?
 
