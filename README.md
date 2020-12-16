@@ -11,8 +11,8 @@
 ### How to install?
 
 ```bash
-./package-install.sh
-sudo dpkg -i teamdev1_1.0.0.deb
+unzip teamdev1_beta_1.0.0.zip
+./install.sh
 ```
 
 ### How to use?
