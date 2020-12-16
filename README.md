@@ -18,7 +18,9 @@ unzip teamdev1_beta_1.0.0.zip
 ### How to use?
 
 WebServer : http://localhost
+
 WebAdmin : http://localhost/admin
+
 Neo4j : http://localhost:7474
 
 > Create Admin Account
