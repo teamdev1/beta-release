@@ -6,12 +6,12 @@
 
 ### Download
 
-[Latest-Version](https://github.com/teamdev1/beta-release/releases/tag/1.0.0)
+[Latest-Version](https://github.com/teamdev1/beta-release/releases/tag/1.0.2)
 
 ### How to install?
 
 ```bash
-unzip teamdev1_beta_1.0.0.zip
+unzip teamdev1_beta_1.0.2.zip
 ./install.sh
 ```
 
